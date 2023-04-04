@@ -14,4 +14,5 @@
 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays?isFullScreen=true)                                          | [Arrays](Solutions/Day7-Arrays/src/Solution.java)                                               |
 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps?isFullScreen=true)            | [DictionariesandMaps](Solutions/Day8-DictionariesandMaps/src/Solution.java)                     |
 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion?isFullScreen=true)                                  | [Recursion](Solutions/Day9-Recursion/src/Solution.java)                                         |
-| [Day 10:Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true)                  | [Binary Number](Solutions/Day10-Binary-Numbers/src/Solution.java)                                     |
+| [Day 10:Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true)                  | [Binary Number](Solutions/Day10-Binary-Numbers/src/Solution.java)                               |
+| [Day11: 2D-Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true)                       | [2D Arrays](Solutions/Day11-2D-Arrays/src/Solution.java)                                        |
