@@ -18,3 +18,4 @@
 | [Day11: 2D-Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem?isFullScreen=true)                            | [2D Arrays](Solutions/Day11-2D-Arrays/src/Solution.java)                                        |
 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true)                       | [Inheritance](Solutions/Day12-Inheritance/src/Student.java)                                     |
 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullScreen=true)             | [Abstract-Classes](Solutions/Day13-Abstract-Classes/src/Solution.java)                          |
+| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true)                                   | [Scope](Solutions/Day14-Scope/src/Solution.java)                                     |
