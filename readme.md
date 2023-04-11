@@ -22,3 +22,4 @@
 | [Day 15:Linkedlist ](https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true)                                     | [Linkedlist](Solutions/Day15-Linkedlist/src/Solution.java)                                      |
 | [Day 16:Exceptions- String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem?isFullScreen=true) | [String to Integer](Solutions/Day16-Exceptions%20-%20StringtoInteger/src/Solution.java)         |
 | [Day 17:More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem?isFullScreen=true)                             | [More Exceptions](Solutions/Day17-More-Exceptions/src/Solution.java)                            |
+| [Day 18:Queues-Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem?isFullScreen=true)                                 | [Queues-Stacks](Solutions/Day18-Queues-Stacks/src/Solution.java)                            |
