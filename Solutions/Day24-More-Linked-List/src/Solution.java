@@ -16,16 +16,16 @@ class Solution
 
     public static Node removeDuplicates(Node head) {
         //Write your code here
-        //List<Node> node=new ArrayList<>();
-       /*  while(head !=null && head.next!=null){
+        Node node=head;
+        while(head !=null && head.next!=null){
              if(head.data==head.next.data){
                  head.next=head.next.next;
 
              }
+
              head=head.next;
-         } */
-        
-         return head;
+         }
+      return node;
     }
 
     public static  Node insert(Node head,int data)
