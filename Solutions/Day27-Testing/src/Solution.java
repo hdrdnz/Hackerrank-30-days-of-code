@@ -17,7 +17,21 @@ public class Solution {
         return min_idx;
     }
 
-    
+    public  static class TestDataEmptyArray{
+        static int[] arr;
+        public static int[] get_array(){
+            return arr;
+        }
+
+    }
+
+    public static class TestDataUniqueValues{
+       static int[] arr={7,8,9,7};
+        public static int[] get_array(){
+            Arrays.sort(arr);
+
+        }
+    }
 
 
 
