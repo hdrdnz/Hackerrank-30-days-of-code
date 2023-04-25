@@ -23,7 +23,17 @@ class Result {
 
     public static int bitwiseAnd(int N, int K) {
         // Write your code here
-
+        int max=-1;
+        for(int i=1;i<=N;i++){
+            for(int j=i+1;j<=N;j++){
+                int result=i & j;
+                if((result)>max && result<K){
+                    max=result;
+                }
+            }
+        }
+        System.out.println(max);
+        return max;
     }
 
 }
@@ -31,7 +41,7 @@ class Result {
 public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("D:\\TEST.TXT"));
 
         int t = Integer.parseInt(bufferedReader.readLine().trim());
 
@@ -56,4 +66,3 @@ public class Solution {
         bufferedWriter.close();
     }
 }
-
