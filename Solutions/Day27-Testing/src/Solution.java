@@ -18,7 +18,7 @@ public class Solution {
     }
 
     public  static class TestDataEmptyArray{
-        static int[] arr;
+        static int[] arr={};
         public static int[] get_array(){
             return arr;
         }
@@ -26,12 +26,27 @@ public class Solution {
     }
 
     public static class TestDataUniqueValues{
-       static int[] arr={7,8,9,7};
+       static int[] arr={7,8,9};
         public static int[] get_array(){
-            Arrays.sort(arr);
+          return arr;
 
         }
+        public static int get_expected_result(){
+            return 0;
+        }
     }
+
+    public static class TestDataExactlyTwoDifferentMinimums{
+        static int[] arr={5,4,1,1};
+        public static int[] get_array(){
+            return arr;
+
+        }
+        public static int get_expected_result(){
+            return 2;
+        }
+    }
+
 
 
 
