@@ -34,5 +34,3 @@
 | [Day 27:Testing](https://www.hackerrank.com/challenges/30-testing/problem?isFullScreen=true)                                        | [Testing](Solutions/Day27-Testing/src/Solution.java)                                                                |
 | [Day28-RegEx-Patterns-and-Intro-to-Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem?isFullScreen=true)         | [RegEx-Patterns-and-Intro-to-Databases](Solutions/Day28-RegEx-%20Patterns-and-Intro-to-Databases/src/Solution.java) |
 | [Day29-Bitwise-And](https://www.hackerrank.com/challenges/30-bitwise-and/problem?isFullScreen=true)         | [Bitwise-And](Solutions/Day29-Bitwise-And/src/Solution.java)                                                        |
-
-[countries.exe](./countries.exe)
